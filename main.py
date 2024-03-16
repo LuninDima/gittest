@@ -6,7 +6,7 @@
 #   file.write(str("message.text") + '\n')
 #   print(file.read())
 
-
+print()
 text = [
 'This is 1st line\n',
 'This is 2nd line\n',
